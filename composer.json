@@ -1,10 +1,20 @@
 {
     "name": "davidprovaznik/cloneblogpost-plugin",
     "type": "october-plugin",
-    "description": "No description provided yet...",
+    "description": "Add clone posts functionality to Ranlab Blog plugin",
+    "keywords": ["blog", "post", "clone"],
     "require": {
-        "composer/installers": "~1.0",
+        "composer/installers": "^1.10",
         "php": ">=8.0",
         "rainlab/blog-plugin": "^1.5.6"
-    }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Provaznik",
+            "email": "david.provaznik.j@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+
 }

@@ -1,4 +1,4 @@
-<?php namespace DavidProvaznik;
+<?php namespace DavidProvaznik\CloneBlogPost;
 
 use Backend;
 use Event;
@@ -7,7 +7,6 @@ use October\Rain\Support\Facades\Str;
 use RainLab\Blog\Controllers\Posts;
 use RainLab\Blog\Models\Post;
 use System\Classes\PluginBase;
-use function DavidProvaznik\CloneBlogPost\post;
 
 /**
  * Plugin Information File
