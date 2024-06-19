@@ -1,0 +1,6 @@
+plugin:
+    name: 'Clone Blog Post'
+    description: 'Add clone posts functionality to Rainlab Blog plugin'
+    author: 'David Provaznik'
+    icon: oc-icon-cogs
+    homepage: 'https://davidprovaznik.cz'

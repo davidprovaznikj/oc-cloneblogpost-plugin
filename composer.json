@@ -1,7 +1,7 @@
 {
     "name": "davidprovaznik/cloneblogpost-plugin",
     "type": "october-plugin",
-    "description": "Add clone posts functionality to Ranlab Blog plugin",
+    "description": "Add clone posts functionality to Rainlab Blog plugin",
     "keywords": ["blog", "post", "clone"],
     "require": {
         "composer/installers": "^1.10",
